@@ -21,11 +21,10 @@ Este é o meu portfólio pessoal, desenvolvido com **HTML, CSS e JavaScript**, p
 └── assets/         # Pasta que contém imagens e outros arquivos
 
 ## 🌐 Acesse meu Portfólio
-🔗 [Clique aqui para acessar](#) _(https://portfolio-4kymfn7j0-claudiomiromarques-projects.vercel.app)_
+🔗 https://portfolio-4kymfn7j0-claudiomiromarques-projects.vercel.app
 
 ## 📬 Contato
-📧 **Email:** seuemail@example.com  
-💼 **LinkedIn:** [Seu Perfil]https://www.linkedin.com/in/claudiomiromarques/  
-🐙 **GitHub:** [Seu GitHub]https://github.com/claudiomiromarques
+💼 **LinkedIn:** https://www.linkedin.com/in/claudiomiromarques/  
+🐙 **GitHub:** https://github.com/claudiomiromarques
 
 ---
